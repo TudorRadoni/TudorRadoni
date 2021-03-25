@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tudorradoni
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning all sorts of stuff, given that I study at TUC-N's faculty of Automation and Computer Science!
+- 🌱 I’m currently learning all sorts of stuff, given that I study at TUC-N's Faculty of Automation and Computer Science!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ?
 
