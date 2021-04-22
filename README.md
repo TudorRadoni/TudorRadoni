@@ -3,8 +3,8 @@
     - 💻 coding;
     - 🔓 hacking;
     - 🔐 cyber security; 
-    - 🤖 roboooots!
-- 🌱 I’m currently learning all sorts of stuff, given that I study at TUC-N's Faculty of Automation and Computer Science!
+    - 🤖 Beep-Boops!
+- 🌱 I currently study at TUC-N's Faculty of Automation and Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ?
 
