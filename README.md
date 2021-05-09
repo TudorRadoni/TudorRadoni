@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TudorRadoni!
 - 👀 I’m interested in:
     - 💻 Coding;
-    - 🔓 Hacking;
     - 🔐 Cyber Security;
+    - 🔓 Hacking;
     - 🤖 Beep-Boops!
 - 🌱 I currently study at TUC-N's Faculty of Automation and Computer Science.
 - 💞️ I’m looking to collaborate on ...
