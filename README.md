@@ -4,6 +4,7 @@
     - 🔐 Cyber Security;
     - 🔓 Hacking;
     - 🤖 Beep-Boops!
+    - 🌍 Web development.
 - 🌱 I currently study at TUC-N's Faculty of Automation and Computer Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ?
