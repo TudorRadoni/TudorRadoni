@@ -9,8 +9,8 @@
 - 🖥️ I repurposed an old(er) computer into a feature packed server: NAS, VPN, Home Assistant, Docker server and moooooore...
 
 - 👀 I’m interested in:
-    - 💻 Coding, with a growing intere
-    - 🔗 DevOps
+    - 💻 Coding, with a growing interest in Machine Learning
+    - 🔗 DevOps, Automation testing and all that fancy stuff
     - 🔐 Cyber Security (2780 pts on CyberEDU; Completed THM's Advent of Cyber 2022 and 14 additional rooms)
     - 🔓 Hacking (Don't tell anyone about this, okay?)
     - 🎮 Game development (Unreal Engine & Unity3D)
