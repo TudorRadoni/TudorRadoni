@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TudorRadoni!
 - 🚀 Semifinalist @ Innovation Labs 2022 as part of the [ShipD Project](https://www.linkedin.com/posts/brd_brd-tech-startups-ugcPost-6940941602680901632-8CZX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADp_A7wByG_EgyM6Q5-C8Aus4MbnxlsiIPc)
-- 🔐 Student at [Google.org's Cybersecurity Seminars](https://cyberseminars.withgoogle.com/)
+- 🔐 Completed the first UTCN x [Google.org Cybersecurity Seminars](https://cyberseminars.withgoogle.com/)
 - 📚 Following a master's degree in Cyber-Physical Systems
 - 👨‍🔬 Systems Engineer
 
